@@ -1,0 +1,50 @@
+body {
+    background-image: url("Image\ 1.jpg")
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.section {
+    background-color: white;
+    text-align: center;
+}
+
+h1, h2, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+.blue{
+    color: #123456;
+    font-weight: bold;
+}
+
+.red{
+    color: rgb(255, 0 , 0); 
+    font-weight: bold; 
+}
+
+.green{
+    color: hsl(74, 73%, 51%);
+    font-weight: bold;
+}
+
+table {
+    background-color: white;
+}
+
+table, th, td {
+    border: 1px solid;
+    font-family: monospace, 'Times New Roman', Times, serif;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
